@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.short-input {
+  width: 40px; /* Adjust the width as per your preference */
+}
